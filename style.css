@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 5%;
+    box-sizing: border-box;
+    align-items: center;
+    text-align: center;
+}
